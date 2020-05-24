@@ -56,3 +56,31 @@ h1{
   width: 50%;
   transform: rotate(25deg);
 }
+
+.featuresContainer{
+  padding: 8rem 0 ;
+}
+
+.featuresRow{
+  text-align: center;
+}
+
+.fas{
+  font-size: 60px;
+  color: #ef8172;
+  margin: 3.5rem 0 1rem 0;
+}
+
+.fas:hover{
+  color: #ff4c68;
+}
+
+h3{
+  font-weight: bold;
+}
+
+.featuresDescription{
+  color: #8f8f8f;
+  width: 70%;
+  margin: 0 auto;
+}
